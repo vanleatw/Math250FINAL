@@ -6,7 +6,7 @@ import pandas as pd
 
 ### Basic setup ###
 
-data_dir = Path("data")
+data_dir = Path("data_copy")
 vdh_path = data_dir / "vdh-pud-overdose-deaths-by-year-and-geography.csv"
 output_path = data_dir / "vdh_overdose_employment_population_full.csv"
 #------------------------------
